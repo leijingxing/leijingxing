@@ -5,29 +5,25 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](1276753397@qq.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             8 hrs 40 mins   ██████████████░░░░░░░░░░░   55.96 %
-TypeScript       3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+flutter          8 hrs 40 mins   ██████████████░░░░░░░░░░░   55.96 %
+dart             3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+java             2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
 Bash             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
