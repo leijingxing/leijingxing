@@ -3,9 +3,6 @@
 我是一位开源爱好者和维护者。我从开源社区学到了很多，我热爱通过开源实现协作和知识共享。
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 需要自由职业合作？欢迎联系我：[email](1276753397@qq.com)
-- �� 有任何问题都可以问我，我很乐意帮忙
 
 **技术栈：**  
 
